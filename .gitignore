@@ -1,0 +1,14 @@
+#videos shouldn't be pushed
+
+*.avi
+*.mp4
+
+
+# the frames folder should not be pushed, instead script is provided to extract frames
+
+frames/
+
+# other files
+
+contour*.py
+*.p
